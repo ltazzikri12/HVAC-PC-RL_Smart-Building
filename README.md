@@ -1,4 +1,4 @@
-# MPC-RL_Smart-Building
+# HVAC-PC-RL_Smart-Building
 
 Repositori untuk pengerjaan Tugas Akhir Smart Building Muhammad Luthfi Nasa Azzikri - 13321003
 
